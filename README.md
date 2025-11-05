@@ -74,8 +74,8 @@ The dataset contains clinical attributes of newborns, including:
 | Model                      | Accuracy   |
 | -------------------------- | ---------- |
 | Random Forest (Tuned)      | ✅ **~99%** |
-| Neural Network (Optimized) | ✅ **~95%** |
-| KNN                        | ~92%       |
+| Neural Network (Optimized) | ✅ **~97%** |
+| SVM                        |    ~95%      |
 
 ### Key findings:
 
@@ -122,14 +122,7 @@ The dataset contains clinical attributes of newborns, including:
 ## ▶️ How to Run
 
 ```bash
-pip install -r requirements.txt
 python notebook.ipynb
-```
-
-For Streamlit UI (optional):
-
-```bash
-streamlit run app.py
 ```
 
 ---
