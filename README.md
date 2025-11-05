@@ -1,10 +1,3 @@
-Sure ✅
-Below is a **professional README.md** file for your GitHub project:
-**Newborn Health Risk Prediction Using Machine Learning & Deep Learning**
-
-Copy & paste into your README.
-
----
 
 # 🍼 Newborn Health Risk Prediction using Machine Learning & Deep Learning
 
